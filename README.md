@@ -12,6 +12,11 @@ A responsive and feature-rich To-Do app built with **React.js** that enables use
 ✅ Toast notifications for user feedback  
 ✅ Cloud deployment for accessibility  
 
+ ## 🔐 Backend code link
+  ```
+    https://github.com/rishika09090/todo-app-backend
+   ```
+
 ## 🎥 Screenshots
 
 ### 🏠 Home Page
